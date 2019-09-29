@@ -1,8 +1,8 @@
 # R
 R - public repository 
 
-This repository has been created to save some useful pice of R-code that can be used by everybody. 
+This repository was created to save some useful R-codes that can be used by everybody. 
 
-If you need more information please contact the owner. 
+If you need more information or want to participate to this repository, please contact Jacques-Daniel Basic at: jacques.basic@gmail.com
 
 
